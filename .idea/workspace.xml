@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52bf2750-0ede-4ce1-bb4c-51c4ec67e708" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/JAVAFX/program/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAFX/program/controllers/PersonEditingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAFX/program/controllers/PersonOverviewController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAFX/program/modules/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAFX/program/styles/DarkTheme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAFX/program/utils/DateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAFX/program/views/main.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAFX/program/views/personEditDialog.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAFX/program/views/root.fxml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1rNMfsj0Sq4xhFj4WcPJ0zJ9qy7" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52bf2750-0ede-4ce1-bb4c-51c4ec67e708" name="Default Changelist" comment="" />
+      <created>1618812204865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618812204865</updated>
+      <workItem from="1618812211383" duration="2000" />
+    </task>
+    <servers />
+  </component>
+</project>
